@@ -1,4 +1,4 @@
-name = "flashcards-backend"
+name = "studyhub-api"
 main = "src/index.ts"
 compatibility_date = "2025-08-28"
 
