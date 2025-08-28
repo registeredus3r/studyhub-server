@@ -4,5 +4,5 @@ compatibility_date = "2025-08-28"
 
 [[d1_databases]]
 binding = "DB"
-database_name = "flashcards-db"
-database_id = "your-d1-database-id"
+database_name = "studyhub-db"
+database_id = "9b6a3566-4f98-4d40-8a77-abf0f26a77c2"
